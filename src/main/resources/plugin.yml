@@ -1,0 +1,10 @@
+name: HorseContainersPlugin
+version: '1.0'
+main: io.github.alexeymartynov.horsecontainers.main.HorseContainersPlugin
+api-version: 1.18
+author: bybyzyanka
+website: https://vk.com/kai9595
+commands:
+  containerget:
+    description: HorseContainersPlugin
+    permission: horse-containers.get
